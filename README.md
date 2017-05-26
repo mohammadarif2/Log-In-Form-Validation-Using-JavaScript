@@ -1,7 +1,8 @@
 # Log-In-Form-Validation-Using-JavaScript
 
 A simple repo on how to validate a Log In form using JavaScript. It also shows how to create an aesthetic of the form using CSS3. Basically, JavaScript limits the User to three login attempts. If the User fails to input the correct credentials, the input fields and submit button lock. If h/she inputs the correct credentials h/she is redirected to another page.
-![Log In Form Screenshot](Log-In-Form-Using-JavaScript/screenshot4.png?raw=true "Log In Form Screenshot")
+![Log In Form Screenshot](/Log-In-Form-Using-JavaScript/screenshot4.png?raw=true "Log In Form Screenshot")
+![ScreenShot](https://raw.github.com/Patwan/Log-In-Form-Validation-Using-JavaScript/master/screenshot4.png)
 
 ## Installation 
 
