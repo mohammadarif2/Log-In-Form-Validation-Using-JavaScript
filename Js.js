@@ -11,7 +11,7 @@ function validate(){
 	//Returns true if username is equal to Formget and password is equal to formget#123
 	if ( username == "2020MT93541" && password == "bitscloud"){
 		//alert()- Displays message as an alert box on the browser window
-		alert ("You have successfully logged In");
+		alert ("Login Successfully");
 		// Redirecting to other page.
 		window.location = "success.html"; 
 		//return statement ends function execution and specifies the value to be returned to the function caller
@@ -21,6 +21,7 @@ function validate(){
 		// -- Decrementing by one. It calls the attempt variable declared above this function
 		attempt --;
 		//Displays the message on the browser window
+		alert("Login failed due to incorrect username and password");
 		alert("You have "+attempt+" attempts left;");
 		// Returns true if attempt is equal to 0
 		if( attempt == 0){
