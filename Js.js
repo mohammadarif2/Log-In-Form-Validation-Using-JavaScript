@@ -9,7 +9,7 @@ function validate(){
 	var password = document.getElementById("password").value;
 	
 	//Returns true if username is equal to Formget and password is equal to formget#123
-	if ( username == "Patwan" && password == "github#patwan"){
+	if ( username == "2020MT93541" && password == "bitscloud"){
 		//alert()- Displays message as an alert box on the browser window
 		alert ("You have successfully logged In");
 		// Redirecting to other page.
